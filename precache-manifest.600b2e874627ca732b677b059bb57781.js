@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "f575a04ebbb31b5798a4c54783e745a2",
-    "url": "/img/new_logo.png"
+    "revision": "d27fbc90c2e644dfdc9765640dc713b9",
+    "url": "/img/mask.png"
   },
   {
     "revision": "6be21e8a1b7d63048728851c6003e189",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/robots.txt"
   },
   {
-    "revision": "81c4b7cb485e0e97f6485ebea6dbb63d",
+    "revision": "0820e57b962804c9a1c68797c7eb81ca",
     "url": "/index.html"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/img/vue-logo.png"
   },
   {
-    "revision": "0bebddf24bfb276a1287",
-    "url": "/js/app.043573c6.js"
+    "revision": "9903fe1e381f94bab093",
+    "url": "/js/app.38ac5bd8.js"
   },
   {
     "revision": "99e58416b89637502b40ac8350eed85a",
@@ -56,48 +56,48 @@ self.__precacheManifest = [
     "url": "/img/default-avatar.png"
   },
   {
-    "revision": "4ab22eca4053c14a34e4bdb6390deae9",
-    "url": "/img/faces/face-5.jpg"
-  },
-  {
-    "revision": "996d8248f580f8e26e6c45c67da9b5a6",
-    "url": "/img/favicon.png"
+    "revision": "4b87e628f4ef9988718860890b2a682f",
+    "url": "/img/faces/face-6.jpg"
   },
   {
     "revision": "0a337c37f03c0462996b7b03758fa72b",
     "url": "/img/loading-bubbles.svg"
   },
   {
+    "revision": "f575a04ebbb31b5798a4c54783e745a2",
+    "url": "/img/new_logo.png"
+  },
+  {
     "revision": "a9615bac158705203261e8348f574cc8",
     "url": "/img/faces/face-0.jpg"
   },
   {
-    "revision": "d27fbc90c2e644dfdc9765640dc713b9",
-    "url": "/img/mask.png"
+    "revision": "996d8248f580f8e26e6c45c67da9b5a6",
+    "url": "/img/favicon.png"
   },
   {
     "revision": "43b98081492ac3bcb4a1fac6cf709403",
     "url": "/img/faces/tim_vector.jpe"
   },
   {
-    "revision": "0e953b1ea6d6e3addd7210e9c7c420a7",
-    "url": "/img/faces/face-2.jpg"
+    "revision": "0b68eb8f1cde1fc9987a9196df05b96a",
+    "url": "/img/faces/face-4.jpg"
   },
   {
     "revision": "ae42fa524981a56f3f289447cff36eb1",
     "url": "/img/nucleo-icons.ae42fa52.svg"
   },
   {
-    "revision": "0b68eb8f1cde1fc9987a9196df05b96a",
-    "url": "/img/faces/face-4.jpg"
-  },
-  {
-    "revision": "4b87e628f4ef9988718860890b2a682f",
-    "url": "/img/faces/face-6.jpg"
-  },
-  {
     "revision": "ce7a6b79aa55041f7ae36f6ce22231fe",
     "url": "/img/faces/face-3.jpg"
+  },
+  {
+    "revision": "4ab22eca4053c14a34e4bdb6390deae9",
+    "url": "/img/faces/face-5.jpg"
+  },
+  {
+    "revision": "0e953b1ea6d6e3addd7210e9c7c420a7",
+    "url": "/img/faces/face-2.jpg"
   },
   {
     "revision": "bf1684a30a86ba1b222aab3acff16356",
@@ -128,7 +128,7 @@ self.__precacheManifest = [
     "url": "/css/chunk-vendors.e0447626.css"
   },
   {
-    "revision": "0bebddf24bfb276a1287",
+    "revision": "9903fe1e381f94bab093",
     "url": "/css/app.e1bf3c37.css"
   },
   {
